@@ -5,7 +5,6 @@
 
 ## 👥 Team Members
 This project was built during a Gen AI Hackathon with:
-- Arham (Original repo owner)
 - Other teammates
 
 ## 🔗 Live Demo
