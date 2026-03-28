@@ -1,3 +1,16 @@
+## 👨‍💻 My Contribution
+- Worked on frontend development
+- Helped in UI/UX design
+- Assisted in integrating AI features
+
+## 👥 Team Members
+This project was built during a Gen AI Hackathon with:
+- Arham (Original repo owner)
+- Other teammates
+
+## 🔗 Live Demo
+https://kalastra0-client.vercel.app/
+
 # Kalastra - Artisan Marketplace
 
 Kalastra is a full-stack e-commerce platform designed for artisans and creators to showcase and sell their handmade products. It features a modern, responsive user interface and a robust backend, enhanced with AI-powered features to improve user experience.
